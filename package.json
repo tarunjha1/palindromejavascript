@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/tarunjha1/palindromejavascript/issues"
   },
-  "homepage": "https://github.com/tarunjha1/palindromejavascript#readme"
+  "homepage": "https://github.com/tarunjha1/palindromejavascript#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
 }
